@@ -65,9 +65,9 @@ python maskgen.py results.masks --targettime 800 --complexity -q -o results.mask
 ```
 
 
-#man hashcat
->Sometimes syntax changes. I'll leave the help here just in case.
-```markup
+# man hashcat
+> Sometimes syntax changes. I'll leave the help here just in case.
+```bash
 hashcat, advanced password recovery
 
 Usage: hashcat [options]... hash|hashfile|hccapfile [dictionary|mask|directory]...
