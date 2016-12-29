@@ -52,7 +52,7 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38rem) {
+@media (min-width: 38em) {
   html {
     font-size: 20px;
   }
@@ -193,10 +193,10 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30rem) {
+@media (min-width: 30em) {
   blockquote {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
+    padding-right: 5em;
+    padding-left: 1.25em;
   }
 }
 
