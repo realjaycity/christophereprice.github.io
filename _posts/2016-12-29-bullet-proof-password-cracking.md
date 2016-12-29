@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bullet Proof Password Cracking
+excerpt_separator: <!--more-->
 ---
 
 **Disclaimer:**
@@ -8,7 +9,7 @@ This guide is specifically tailored to be an all-inclusive approach to speed cra
 
 **Prerequisites:**
 [Ubuntu 16.04.1 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/) + [pwcrack_kit.zip](https://tcp.expert/static/pwcrack_kit.zip)
-
+ <!--more-->
 # Shortcut
 >If you trust my work then you can use the following one-liner to grab a copy of the "Password Cracking Kit" and setup an environment for you to start cracking passwords!
 
